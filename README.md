@@ -82,7 +82,7 @@ If neither variable is set, enable `Use mock responses (no network)` in the app 
 streamlit run workspace/app.py
 ```
 
-Open the UI at the URL printed by Streamlit (usually[ http://localhost:](http://localhost:8501/)).
+Open the UI at the URL printed by Streamlit (usually[https://agronoapy-bzkbdecpdmkgtmvqknwp67.streamlit.app/).
 
 ## Usage
 - Open the "API Key & Settings" expander and choose a provider (`Auto`, `Gemini`, `OpenAI`).
