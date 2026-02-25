@@ -34,8 +34,6 @@ Suggested deliverables for FA-2 submission:
 - Public GitHub repo URL with `app.py` and `requirements.txt`.
 - Streamlit Cloud public URL.
 - A short `README` (this file) with test screenshots and a `validation_results.json` produced by the app.
-# CoachBot AI — Smart Fitness Assistance
-
 
 # AgroNova — Smart Farming Assistant
 
