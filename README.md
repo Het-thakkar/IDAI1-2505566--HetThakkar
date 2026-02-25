@@ -36,13 +36,6 @@ Suggested deliverables for FA-2 submission:
 - A short `README` (this file) with test screenshots and a `validation_results.json` produced by the app.
 # CoachBot AI — Smart Fitness Assistance
 
-CoachBot AI is a Streamlit demo that builds structured prompts from athlete inputs and requests coaching guidance from a generative model (Gemini or OpenAI). This repository is a scaffold you can extend for research or small demo deployments.
-
-**Repository name:** workspace
-
-**Main files**
-- `app.py` — Streamlit application and prompt builder (main entry).
-- `requirements.txt` — Python dependencies.
 
 # AgroNova — Smart Farming Assistant
 
