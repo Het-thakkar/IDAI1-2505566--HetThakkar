@@ -1,4 +1,5 @@
 # IDAI1-2505566--HetThakkar
+OpenAI key = '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'
 
 # AgroNova — Smart Farming Assistant (FA-2)
 
