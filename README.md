@@ -16,16 +16,13 @@ Quick start (local):
 python -m pip install -r requirements.txt
 ```
 
-3. Run the app locally:
+3. Streamlit app link:
 
 ```bash
 streamlit run app.py
 ```
 
-Deployment on Streamlit Cloud:
-1. Push this repository to GitHub.
-2. Log in to https://streamlit.io/cloud and click "New app".
-3. Connect your GitHub repo, select the branch and `app.py` file, then deploy.
+
 
 Notes for the assignment (FA-2):
 - The app includes a mock mode for offline testing. For real queries, add your Gemini/OpenAI API key in the UI or set `GEMINI_API_KEY` / `OPENAI_API_KEY` env variables.
@@ -76,7 +73,7 @@ pip install google-generativeai
 
 If neither variable is set, enable `Use mock responses (no network)` in the app to avoid network calls.
 
-## Run locally
+## Streamlit app link
 
 ```bash
 streamlit run workspace/app.py
