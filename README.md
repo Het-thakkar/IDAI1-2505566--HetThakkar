@@ -88,6 +88,3 @@ Open the UI at the URL printed by Streamlit (usually[https://agronoapy-bzkbdecpd
 ## Security & Production Notes
 - Do not commit API keys. Use environment variables or a secure secret manager for deployments.
 - Validate model outputs before using them for operational decisions; the scaffold app includes simple reason tags but is not a certified agronomic advisor.
-
-## Want more?
-I can add a focused `requirements.txt`, a minimal `Dockerfile`, or deployment instructions for Streamlit Cloud. Tell me which and I'll add it.
